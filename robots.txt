@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/sitemap.xml
+Sitemap: https://nbcont.com.br/sitemap.xml
