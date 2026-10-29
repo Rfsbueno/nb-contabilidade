@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/sitemap.xml

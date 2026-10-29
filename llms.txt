@@ -1,0 +1,19 @@
+# NB Contabilidade
+
+> Escritório de contabilidade. Site institucional em português do Brasil.
+
+## Informações principais
+- Marca: NB Contabilidade.
+- Responsável técnica: Nicoly Bueno Costa.
+- Serviços apresentados: contabilidade empresarial, gestão fiscal e tributária, departamento pessoal, abertura e legalização, BPO financeiro, consultoria e planejamento.
+
+## URLs
+- [Página institucional](https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/): apresentação do escritório.
+- [Serviços](https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/#servicos): escopo dos serviços apresentados.
+- [Sobre a NB e Nicoly](https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/#sobre): apresentação institucional e responsabilidade técnica.
+- [Como funciona](https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/#como-funciona): etapas de atendimento.
+- [Contato](https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/#contato): formulário e canais de atendimento.
+- [Sitemap](https://vertice-contabilidade-rb.rodrigobueno.chatgpt.site/sitemap.xml): URLs indexáveis.
+
+## Limites desta versão
+O site está em versão de apresentação. Os serviços dependem de confirmação do escritório. O número do WhatsApp e o recebimento do formulário ainda não foram configurados. Não inferir endereço, telefone, registro profissional, preços ou área geográfica de atendimento.
